@@ -1,0 +1,15 @@
+# Python
+beorimi_backend/venv/
+beorimi_backend/.venv/
+beorimi_backend/__pycache__/
+beorimi_backend/.env
+beorimi_backend/uploads/
+beorimi_backend/my_permanent_model/
+
+# React
+beorimi_frontend/node_modules/
+beorimi_frontend/dist/
+
+# OS
+.DS_Store
+__MACOSX/
